@@ -20,4 +20,4 @@ This is fornt emphasis
     1. Whole Numbers (Remove 3 and give double tab and type the content with initial number)
     2. Natural Numbers
     3. Integers
-![TAJMAHAL]{https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftaj-mahal&psig=AOvVaw1PEILKivHX1yYjYBsmkKa6&ust=1620892484504000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCwwLjVw_ACFQAAAAAdAAAAABAD
+![TAJMAHAL](https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80)
